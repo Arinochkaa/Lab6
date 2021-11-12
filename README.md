@@ -12,7 +12,7 @@
 4. Добавили поле TextView;
 5. Добавили в них код:
 6. Проверили работоспособность;
-
+'''Java
 package com.example.myapplication;
 
 import android.support.v7.app.AppCompatActivity;
@@ -45,3 +45,8 @@ public class MainActivity extends AppCompatActivity {
         name = nameBox.getText().toString();
     }
 }
+'''
+
+![](bf7e55c6-0589-436e-aca3-f003bacc3fcc.jpg)
+![](da775439-68c5-47fa-9b00-43b1d6871c30.jpg)
+![](74d36f5b-0bc6-40a5-aead-d3a84ae16b26.jpg)
